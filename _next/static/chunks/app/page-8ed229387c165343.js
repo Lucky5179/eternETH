@@ -335,14 +335,7 @@
           };
         return (0, l.jsx)("section", {
           className: "relative py-20",
-          children: (0, l.jsx)("div", {
-            className: "container mx-auto px-4",
-            children: (0, l.jsxs)("div", {
-              className: "bg-card p-8 rounded-lg shadow-lg",
-              children: [
-              ],
-            }),
-          }),
+
         });
       };
     },
