@@ -238,7 +238,7 @@
                                                         className: "flex flex-col space-y-2",
                                                         children: [
                                                             (0, s.jsx)(h, {
-                                                                href: "https://docs.evereth.net",
+                                                                href: "https://docs.eternethai.com",
                                                                 children: "Docs ↗",
                                                             }),
                                                             (0, s.jsx)(h, {
@@ -393,7 +393,7 @@
                                             className: "flex flex-col space-y-4 text-sm",
                                             children: [
                                                 (0, s.jsx)(h, {
-                                                    href: "https://docs.evereth.net",
+                                                    href: "https://docs.eternethai.com",
                                                     children: "Docs ↗",
                                                 }),
                                             ],
