@@ -344,7 +344,7 @@
                                             children: [
                                                 (0, s.jsx)(a, {
                                                     title: "UniFlash ↗",
-                                                    href: "https://uniflash.io",
+                                                    href: "https://app.eternethai.com",
                                                     src: "/stake.png",
                                                     description: "Decentralized trading platform.",
                                                 }),
