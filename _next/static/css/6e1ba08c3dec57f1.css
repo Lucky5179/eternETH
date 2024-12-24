@@ -387,7 +387,7 @@
 .marquee__content img {
     margin-right: 25px;
     border-radius: 20px;
-    opacity: 0 ;
+
 }
 
 .marquee--reverse .marquee__content img {
